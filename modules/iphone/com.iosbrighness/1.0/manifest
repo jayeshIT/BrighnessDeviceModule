@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: get device brightness and set to slider not set sliding value to device brightness
+author: Jayesh Joshi
+license: No
+copyright: This is copyright jayesh joshi
+
+
+# these should not be edited
+name: BrighnessDeviceModule
+moduleid: com.iosbrighness
+guid: 9942f849-06a1-471b-a423-583383d8a666
+platform: iphone
+minsdk: 3.1.1.GA
